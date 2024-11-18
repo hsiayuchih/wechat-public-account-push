@@ -23,8 +23,8 @@ const USER_CONFIG = {
       id: '4a29ef4628a947a3ba3923bfc5bcb9c9',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '0001',
-      province: '广东',
-      city: '珠海',
+      province: '珠海',
+      city: '香洲',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '01-17',
       festivals: [
