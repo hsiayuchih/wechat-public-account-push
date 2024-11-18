@@ -4,7 +4,7 @@ const TEMPLATE_CONFIG = [
     id: '0001',
     title: '亲爱的珠珠, 早上好',
     desc: `
-      🗓{{date.DATA}}**
+      🗓{{date.DATA}}
       
       下个休息日：{{holidaytts.DATA}}
       
