@@ -10,18 +10,18 @@ const TEMPLATE_CONFIG = [
       
       ---
       
-      城市🏙️：{{city.DATA}}<br>
+      城市🌇：{{city.DATA}}<br>
       天气☁️：{{weather.DATA}}<br>
       温度🌡️: {{min_temperature.DATA}}--{{max_temperature.DATA}}<br>
-      风向💨：{{wind_direction.DATA}}<br>
-      风级🍃：{{wind_scale.DATA}}<br>
+      风向🎐：{{wind_direction.DATA}}<br>
+      风级💨：{{wind_scale.DATA}}<br>
       温馨提示📌：{{notice.DATA}}
     
       ---
       值得纪念🥰：<br>
       今天是我们相识的第{{love_day.DATA}}天👫<br>
       <br>
-      🎂{{birthday_message.DATA}}🎉
+      🎂🎉{{birthday_message.DATA}}
       
       ---
       💗：{{earthy_love_words.DATA}}<br>
