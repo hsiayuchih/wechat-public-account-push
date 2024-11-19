@@ -21,7 +21,7 @@ const TEMPLATE_CONFIG = [
       值得纪念🥰：<br>
       今天是我们相识的第{{love_day.DATA}}天👫<br>
       <br>
-      {{birthday_message.DATA}}🎂
+      🎂{{birthday_message.DATA}}
       
       ---
       💗：{{earthy_love_words.DATA}}<br>
