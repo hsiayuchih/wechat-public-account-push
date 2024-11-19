@@ -10,23 +10,23 @@ const TEMPLATE_CONFIG = [
       
       ---
       
-      城市：{{city.DATA}}
-      天气☁️：{{weather.DATA}}
-      温度🌡️: {{min_temperature.DATA}}--{{max_temperature.DATA}}
-      风向：{{wind_direction.DATA}}
-      风级：{{wind_scale.DATA}}
+      城市：{{city.DATA}}<br>
+      天气☁️：{{weather.DATA}}<br>
+      温度🌡️: {{min_temperature.DATA}}--{{max_temperature.DATA}}<br>
+      风向：{{wind_direction.DATA}}<br>
+      风级：{{wind_scale.DATA}}<br>
       温馨提示：{{notice.DATA}}
     
       ---
       
-      今天是我们相识的第{{love_day.DATA}}天
+      今天是我们相识的第{{love_day.DATA}}天<br>
       值得纪念：{{birthday_message.DATA}}
       
       ---
-      💗：{{earthy_love_words.DATA}}
-      每日一句😋
-      中文：{{note_ch.DATA}}
-      English：{{note_en.DATA}}
+      💗：{{earthy_love_words.DATA}}<br>
+      每日一句😋<br>
+      中文：{{note_ch.DATA}}<br>
+      English：{{note_en.DATA}}<br>
       和{{poetry_author.DATA}}约个会：{{poetry_content.DATA}}
     `
   },
