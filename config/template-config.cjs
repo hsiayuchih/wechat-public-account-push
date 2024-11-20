@@ -18,16 +18,16 @@ const TEMPLATE_CONFIG = [
       温馨提示📌：{{notice.DATA}}
     
       ---
-      值得纪念🥰：<br>
-      今天是我们相识的第{{love_day.DATA}}天👫<br>
-      <br>
+      值得纪念🥰：  
+      今天是我们相识的第{{love_day.DATA}}天👫  
+        
       🎂{{birthday_message.DATA}}
       
       ---
-      💗：{{earthy_love_words.DATA}}<br>
-      每日一句😋<br>
-      中文：{{note_ch.DATA}}<br>
-      English：{{note_en.DATA}}<br>
+      💗：{{earthy_love_words.DATA}}  
+      每日一句😋  
+      中文：{{note_ch.DATA}}  
+      English：{{note_en.DATA}}  
       和{{poetry_author.DATA}}约个会：{{poetry_content.DATA}}
     `
   },
