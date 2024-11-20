@@ -10,11 +10,11 @@ const TEMPLATE_CONFIG = [
       
       ---
       
-      城市🌇：{{city.DATA}}<br>
-      天气☁️：{{weather.DATA}}<br>
-      温度🌡️: {{min_temperature.DATA}}--{{max_temperature.DATA}}<br>
-      风向🎐：{{wind_direction.DATA}}<br>
-      风级💨：{{wind_scale.DATA}}<br>
+      城市🌇：{{city.DATA}}  
+      天气☁️：{{weather.DATA}}  
+      温度🌡️: {{min_temperature.DATA}}--{{max_temperature.DATA}}  
+      风向🎐：{{wind_direction.DATA}}  
+      风级💨：{{wind_scale.DATA}}  
       温馨提示📌：{{notice.DATA}}
     
       ---
